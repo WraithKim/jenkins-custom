@@ -23,5 +23,5 @@ $ docker run --detach \
 -p 8080:8080 \
 --name jenkins-docker \
 -u root \
-jenkins-custom
+wraithkim/jenkins-custom
 ```
